@@ -1,4 +1,8 @@
 # *Code2Que*: A Tool for Improving Question Titles from Mined Code Snippets in Stack Overflow
+
+*Code2Que* is an automated web service tool, which can help Stack Overflow users for improving question titles. 
+The full research paper has been accepted by TOSEM, please check our pre-print version on arxiv if your are interested: https://arxiv.org/abs/2005.10157
+
 ***
 <img src="./Workflow.png" width="80%">
 
